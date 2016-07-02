@@ -12,6 +12,7 @@
  * [APK ファイルの署名の仕様](http://d.hatena.ne.jp/urandroid/20110818/1313656536)
    * ```testkey.pk8```とかいうファイルを使ってる
    * これが何なのかは知らない
+   * ```META-INF/MANIFEST.MF```を生成するスクリプト```make-manifest.pl```とかがある
  * [https://github.com/appium/sign](https://github.com/appium/sign)
    * ```testkey.pk8```とかが置いてあったリポジトリ
    * どういう経緯のものなのかは知らない
